@@ -6,11 +6,11 @@
         "Color": [255, 220, 60]
       }
     },
-    "NvestaGD": {
-      "Tag": {
-        "Name": "💫 VASTAL DEVELOPER",
-        "Color": [255, 220, 60]
-      }
+    //"NvestaGD": {
+    //  "Tag": {
+    //    "Name": "💫 VASTAL DEVELOPER",
+    //    "Color": [255, 220, 60]
+    //  }
     }
   }
 }
