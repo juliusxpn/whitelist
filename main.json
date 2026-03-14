@@ -1,0 +1,16 @@
+{
+  "whitelist": {
+    "Fliskjus": {
+      "Tag": {
+        "Name": "VASTAL DEVELOPER",
+        "Color": [255, 0, 255]
+      }
+    },
+    "NvestaGD": {
+      "Tag": {
+        "Name": "VASTAL DEVELOPER",
+        "Color": [255, 0, 255]
+      }
+    }
+  }
+}
