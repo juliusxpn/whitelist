@@ -1,15 +1,15 @@
 {
   "whitelist": {
     "Fliskjus": {
-      "Tag": {
-        "Name": "VASTAL DEVELOPER",
-        "Color": [200, 130, 255]
+      "Tag": { 
+        "Name": "💫 VASTAL DEVELOPER",
+        "Color": [255, 220, 60]
       }
     },
     "NvestaGD": {
       "Tag": {
-        "Name": "VASTAL DEVELOPER",
-        "Color": [200, 130, 255]
+        "Name": "💫 VASTAL DEVELOPER",
+        "Color": [255, 220, 60]
       }
     }
   }
